@@ -80,11 +80,10 @@ you can use the plugin page and support in wordpress.org
 
 == Screenshots ==
 
-<img src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-1.jpg" alt="screenshot 1">
-<img src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-2.jpg" alt="screenshot 2">
-<img src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-3.jpg" alt="screenshot 3">
-<img src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-4.jpg" alt="screenshot 4">
-	
+* screenshot 1
+* screenshot 2
+* screenshot 3
+* screenshot 4	
 
 == Changelog ==
 = 1.0 =
