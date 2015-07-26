@@ -79,10 +79,13 @@ you can use the plugin page and support in wordpress.org
 
 
 == Screenshots ==
-1. WP MIssing Functions Plugin settings
-2. WP MIssing Functions Plugin settings 2
-3. WP MIssing Functions Plugin settings 3
+
+<img class="screenshot" src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-1.jpg" alt="screenshot 1">
+<img class="screenshot" src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-2.jpg" alt="screenshot 2">
+<img class="screenshot" src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-3.jpg" alt="screenshot 3">
+<img class="screenshot" src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-4.jpg" alt="screenshot 4">
+	
 
 == Changelog ==
-= 1.0 =
+= 0.9.9 =
 * Initial release.
