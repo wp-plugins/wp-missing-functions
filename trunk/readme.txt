@@ -4,7 +4,7 @@ Tags: missing functions, missing,custom functions plugin,custom function,functio
 Requires at least: 3.0
 Tested up to: 4.2.3
 Stable tag: trunk
-Version: 0.9.9
+Version: 1.0
 Donate link: https://thainetworks.net/wpmf
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/quick-guide-gplv3.en.html
@@ -56,7 +56,7 @@ When using this Plugin you are saving your self on the installation of more than
 * Disable Admin nag.
 * Remove wordpress version number.
 
-Pro Plugin Features
+Added Plugin Features 
 -------------------------------------------------
 * Add a Fixed Percentage charge to all your products on checkout page of Woocommerce.
 * Rename additional Information Tab in Products to any Other name in Woocommerce product page.
@@ -80,12 +80,17 @@ you can use the plugin page and support in wordpress.org
 
 == Screenshots ==
 
-<img class="screenshot" src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-1.jpg" alt="screenshot 1">
-<img class="screenshot" src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-2.jpg" alt="screenshot 2">
-<img class="screenshot" src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-3.jpg" alt="screenshot 3">
-<img class="screenshot" src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-4.jpg" alt="screenshot 4">
+<img src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-1.jpg" alt="screenshot 1">
+<img src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-2.jpg" alt="screenshot 2">
+<img src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-3.jpg" alt="screenshot 3">
+<img src="http://plugins.svn.wordpress.org/wp-missing-functions/assets/wpmf-4.jpg" alt="screenshot 4">
 	
 
 == Changelog ==
+= 1.0 =
+* Add a Fixed Percentage charge to all your products on checkout page of Woocommerce.
+* Rename additional Information Tab in Products to any Other name in Woocommerce product page.
+* Add Text beside the price of product and under it.
+* Activate Alternative PayPal E-Mail for each product on it's own.
 = 0.9.9 =
 * Initial release.
