@@ -2,8 +2,9 @@
 Contributors: Mark ELayan
 Tags: missing functions, missing,custom functions plugin,custom function,function,wordpress function,widget,plugin,sidebar,shortcode,page,woocomerce functions,woocomerce,extra,added,paypal alternative email,alternative email.
 Requires at least: 3.0
-Tested up to: 4.2.2
+Tested up to: 4.2.3
 Stable tag: trunk
+Version: 0.9.9
 Donate link: https://thainetworks.net/wpmf
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/quick-guide-gplv3.en.html
