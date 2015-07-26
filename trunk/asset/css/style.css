@@ -1,0 +1,149 @@
+.inner-form {width:100%;}
+.lsa {width:80%;float:left;}
+.rsa {width:18%;float:right;}
+.sep {width: 100%;display:inline-block;}
+.sep h2 {  text-align: center;  margin: 40px 0 40px 0;}
+
+
+
+.wpmf-tabs input[type=text] {  margin-left: 36%;}
+
+.wpmf-tabs
+{
+    width: 100%;
+    height: 800px;
+}    
+ 
+.wpmf-tabs ul,
+.wpmf-tabs li
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ 
+.wpmf-tabs,
+.wpmf-tabs input[type="radio"]:checked + label
+{
+    position: relative;
+    
+}
+ 
+.wpmf-tabs li,
+.wpmf-tabs input[type="radio"] + label
+{
+    display: inline-block;
+}
+ 
+.wpmf-tabs li > div,
+.wpmf-tabs input[type="radio"]
+{
+    position: absolute;
+}
+ 
+.wpmf-tabs li > div,
+.wpmf-tabs input[type="radio"] + label
+{
+    border: solid 1px #ccc;
+}
+ 
+.wpmf-tabs
+{
+    font: normal 11px Arial, Sans-serif;
+    color: #404040;
+}
+ 
+.wpmf-tabs li
+{
+    vertical-align: top;
+}
+ 
+.wpmf-tabs li:first-child
+{
+    margin-left: 8px;
+}
+ 
+.wpmf-tabs li > div
+{
+    top: 33px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 8px;
+    overflow: auto;
+    background: #fff;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+ 
+.wpmf-tabs input[type="radio"] + label
+{
+    margin: 0 2px 0 0;
+    padding: 0 18px;
+    line-height: 32px;
+    background: #f1f1f1;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+    cursor: pointer;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    font-size: 15px;
+}
+ 
+.wpmf-tabs input[type="radio"]:checked + label
+{
+    z-index: 1;
+    background: #fff;
+    border-bottom-color: #fff;
+    cursor: default;
+    font-weight: bold;
+}
+ 
+.wpmf-tabs input[type="radio"]
+{
+ display: none;   
+}
+ 
+.wpmf-tabs input[type="radio"] ~ div
+{
+    display: none;
+}
+ 
+.wpmf-tabs input[type="radio"]:checked:not(:disabled) ~ div
+{
+    display: block;
+    border-radius: 0px 31px;
+}
+ 
+.wpmf-tabs input[type="radio"]:disabled + label
+{
+    opacity: .5;
+    cursor: no-drop;
+}
+
+#fnt-14 {
+font-size:15px !important;
+}
+.wpmf100 {width: 100%;}
+.wpmf100 tr > td
+{
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+}
+.wpmf100 small {padding-left: 5%;  font-size: 10px;}
+
+input.form-radio {
+    display: block !important ;
+}
+
+.wpmf100 p {
+    text-align: center;
+}
+.wmpflable {
+    font-size: 15px;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
