@@ -4,6 +4,7 @@ Tags: missing functions, missing,custom functions plugin,custom function,functio
 Requires at least: 3.0
 Tested up to: 4.2.4
 Stable tag: trunk
+Stable version: 1.2.1
 Donate link: https://thainetworks.net/wpmf
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/quick-guide-gplv3.en.html
