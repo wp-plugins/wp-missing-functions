@@ -2,9 +2,8 @@
 Contributors: Mark ELayan
 Tags: missing functions, missing,custom functions plugin,custom function,function,wordpress function,widget,plugin,sidebar,shortcode,page,woocomerce functions,woocomerce,extra,added,paypal alternative email,alternative email.
 Requires at least: 3.0
-Tested up to: 4.2.3
+Tested up to: 4.2.4
 Stable tag: trunk
-Version: 1.0
 Donate link: https://thainetworks.net/wpmf
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/quick-guide-gplv3.en.html
@@ -56,7 +55,7 @@ When using this Plugin you are saving your self on the installation of more than
 * Disable Admin nag.
 * Remove wordpress version number.
 
-Added Plugin Features 
+Added plugin Features 
 -------------------------------------------------
 * Add a Fixed Percentage charge to all your products on checkout page of Woocommerce.
 * Rename additional Information Tab in Products to any Other name in Woocommerce product page.
@@ -79,17 +78,13 @@ you can use the plugin page and support in wordpress.org
 
 
 == Screenshots ==
-
-* screenshot 1
-* screenshot 2
-* screenshot 3
-* screenshot 4	
+1. WP MIssing Functions Plugin settings
+2. WP MIssing Functions Plugin settings 2
+3. WP MIssing Functions Plugin settings 3
 
 == Changelog ==
+= 1.2.1 =
+* Minor Bug Fixes.
+
 = 1.0 =
-* Add a Fixed Percentage charge to all your products on checkout page of Woocommerce.
-* Rename additional Information Tab in Products to any Other name in Woocommerce product page.
-* Add Text beside the price of product and under it.
-* Activate Alternative PayPal E-Mail for each product on it's own.
-= 0.9.9 =
 * Initial release.
