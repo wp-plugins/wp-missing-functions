@@ -3,7 +3,7 @@
 .rsa {width:18%;float:right;}
 .sep {width: 100%;display:inline-block;}
 .sep h2 {  text-align: center;  margin: 40px 0 40px 0;}
-
+.up-pic {display: none; width:auto; margin:auto; text-align:center;}
 
 
 .wpmf-tabs input[type=text] {  margin-left: 36%;}
